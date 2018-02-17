@@ -1,0 +1,38 @@
+C:\WS\Поиск работы 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe.config
+C:\WS\Поиск работы 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe.manifest
+C:\WS\Поиск работы 2018\Rent\RentWinForms\bin\Release\RentWinForms.application
+C:\WS\Поиск работы 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe
+C:\WS\Поиск работы 2018\Rent\RentWinForms\bin\Release\RentWinForms.pdb
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csprojResolveAssemblyReference.cache
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.CarRentRate.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Main.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.AddAndEditCarRent.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.CreateRentRate.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.EditCarRate.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Properties.Resources.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Rent.resources
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csproj.GenerateResource.Cache
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csproj.CoreCompileInputs.cache
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.exe.manifest
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.application
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.exe
+C:\WS\Поиск работы 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.pdb
+C:\WS\Job 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe.config
+C:\WS\Job 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe.manifest
+C:\WS\Job 2018\Rent\RentWinForms\bin\Release\RentWinForms.application
+C:\WS\Job 2018\Rent\RentWinForms\bin\Release\RentWinForms.exe
+C:\WS\Job 2018\Rent\RentWinForms\bin\Release\RentWinForms.pdb
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csprojResolveAssemblyReference.cache
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.CarRentRate.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Main.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.AddAndEditCarRent.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.CreateRentRate.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Forms.Modal.EditCarRate.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Properties.Resources.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.Rent.resources
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csproj.GenerateResource.Cache
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.csproj.CoreCompileInputs.cache
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.exe.manifest
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.application
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.exe
+C:\WS\Job 2018\Rent\RentWinForms\obj\x86\Release\RentWinForms.pdb
